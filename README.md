@@ -79,29 +79,3 @@ These upcoming implementations aim to tackle advanced challenges in distributed 
 ## 🧠 Why This Matters
 
 AI agents are at the forefront of transforming how we interact with technology. By combining reasoning, retrieval, action-taking, and structured output generation, these agents can solve complex problems, automate workflows, and enhance human-AI collaboration. This repository serves as a playground for exploring these concepts, with practical implementations that you can build upon for research, experimentation, or real-world applications.
-
-## 🛠️ Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Install dependencies:
-
-#### Running the Code
-Clone the repository:
-
-```
-git clone https://github.com/Sunilyadav03/Agents.git
-cd Agents
-```
-Explore the `.ipynb` files or run Python scripts (e.g., python Bot_with_LangGraph/app.py) to test the implementations.
-
-## 🌟 Contributing
-Contributions are welcome! If you have ideas for new agent architectures, improvements, or bug fixes, feel free to open an issue or submit a pull request. Let’s build the future of AI agents together! 🤝
-
-## 📜 License
-This project is licensed under the MIT License—see the LICENSE file for details.
-
-## 📬 Contact
-For questions, feedback, or collaboration, reach out via: GitHub Issues ,LinkedIn: [Sunil Yadav](https://www.linkedin.com/in/sunil-yadav-96a541289/)
-
-**Built with 💡 by Sunil Yadav | Last Updated: June 2025**
